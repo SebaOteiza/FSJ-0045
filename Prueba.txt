@@ -1,6 +1,1 @@
-prueba.txt
-git add prueba.txt
-me puese a dar jugo
-hola
-chao
-chaito
+este archivo quedó vacío
